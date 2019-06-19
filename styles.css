@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+h1{
+  color: pink;
+}
+
 nav, footer {
   background-color: grey;
   height: 40px;
